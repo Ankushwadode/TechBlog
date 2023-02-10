@@ -1,0 +1,104 @@
+/* 
+    Created on : 19-Aug-2022, 9:07:32 pm
+    Author     : Ankush
+*/
+.primary-background{
+    background:#3d5afe!important;
+}
+
+.p{
+    font-size:20px;
+}
+
+.card{
+    border: none !important;
+}
+
+.clip{
+    border: none !important;
+}
+
+div > *{
+    margin:0;
+}
+
+.jumbotron{
+    margin:0;
+}
+
+h3{
+    font-family: "Roboto",sans-serif;
+    font-weight: 100;
+}
+
+.card-text{
+    font-size: 22px;
+
+}
+
+.card-body{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    color: black;
+    font-weight: 500;
+}
+
+.card-title-publish{
+    color: black;
+}
+
+.card-text-publish{
+    color: black;
+    -webkit-text-stroke-width: 0.5px;
+}
+
+.card-publish{
+    width: 90%;
+    height: auto;
+    margin: auto;
+    opacity: 0.9;
+    padding-left: auto;
+    text-align: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.card-know{
+    width: 100%;
+    height: auto;
+    opacity: 0.9;
+    padding-left: auto;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.card-title-know{
+    color: black;
+}
+
+.card-text-know{
+    color:black;
+    -webkit-text-stroke-width: 0.5px;
+}
+
+.card-join{
+    width: 100%;
+    height: auto;
+    opacity: 0.9;
+    padding-left: auto;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.card-title-join{
+    color: black;
+}
+
+.card-text-join{
+    color:black;
+    -webkit-text-stroke-width: 0.5px;
+}
+
